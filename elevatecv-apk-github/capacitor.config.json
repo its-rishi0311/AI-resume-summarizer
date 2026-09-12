@@ -1,9 +1,0 @@
-{
-  "appId": "com.elevatecv.app",
-  "appName": "ElevateCV",
-  "webDir": ".",
-  "bundledWebRuntime": false,
-  "server": {
-    "androidScheme": "https"
-  }
-}
